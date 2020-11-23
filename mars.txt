@@ -2,4 +2,8 @@ Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 But the mummy will appreciate the lack of humidity
 Venus might be a good candidate for a base
+<<<<<<< HEAD
 Wolfman is fam
+=======
+This line added to Wolfman copy
+>>>>>>> 933e8d1f96c63d95e2d199c1cca26ddeb3ae2172
